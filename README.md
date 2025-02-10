@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Ronn Odoyo 👋  
 
-<!--
-**Ronqwer-max/Ronqwer-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **About Me:**  
+- 🏥 3rd year MBChB student  
+- 💡 Interested in Data Science, Web Scraping, and Django  
+- 🚀 Learning Scikit-Learn & Pandas for Data Science  
+- 📫 Reach me at odoyoronn@gmail.com  
 
-Here are some ideas to get you started:
+📊 **GitHub Stats:**  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronqwer-max&show_icons=true&theme=dark)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 **Follow Me:**  
+[![LinkedIn](https://www.linkedin.com/in/ronn-odoyo-307791248/)  
+
+
+
+
